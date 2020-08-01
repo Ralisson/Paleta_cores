@@ -5,6 +5,7 @@
 
 ##### Importando pacotes e bibliotecas necessárias.
 
+'''
 install.packages('tidyverse')
 install.packages('jpeg')
 install.packages("magrittr")
@@ -16,6 +17,4 @@ library(tidyverse)
 library(dplyr)
 library(tibble)
 options(warn=-1)
----
-
-
+'''
