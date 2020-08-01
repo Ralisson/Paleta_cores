@@ -1,2 +1,5 @@
-## Estraindo as principais cores de uma foto
-Projeto que cria uma paleta com as cores mais marcantes em uma foto. 
+>>> # PALETA DE CORES ATRAVÉS DE I.A
+
+>>## Extraindo as cores principais de uma foto e criando uma paleta hexadeciamal com uso do algotimo K-means
+
+### Neste trabalho iremos mostras uma 
